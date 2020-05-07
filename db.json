@@ -1,0 +1,39 @@
+{
+    "contacts":[
+     {
+        "id": 1,
+        "avatar": "https://estaticos.sport.es/resources/jpg/7/7/1568401372277.jpg",
+        "nombre": "Lionel Messi",
+        "ciudad": "Barcelona"        
+     },
+     {
+        "id": 2,
+        "avatar": "https://los40es00.epimg.net/los40/imagenes/2019/10/07/musica/1570439368_429644_1570439881_noticia_normal.jpg",
+        "nombre": "Shakira",
+        "ciudad": "Barcelona"        
+     },
+     {
+        "id": 3,
+        "avatar": "https://bolavip.com/__export/1574357799669/sites/bolavip/img/2019/11/21/gerard_pique_barcelona_retiro_crop1574357799063.jpg_423682103.jpg",
+        "nombre": "Gerard Piqué",
+        "ciudad": "Barcelona"        
+     },
+        {
+        "id": 4,
+        "avatar": "https://www.mundodeportivo.com/r/GODO/MD/p7/Futbol/Imagenes/2020/04/06/Recortada/img_agomezo_20200326-110529_imagenes_md_otras_fuentes_gettyimages-1205035438-kT0F-U48336284567QyD-980x554@MundoDeportivo-Web.jpg",
+        "nombre": "Cristiano Ronaldo",
+        "ciudad": "Turin"        
+     },
+     {
+        "id": 5,
+        "avatar": "https://cdn.eltrecetv.com.ar/sites/default/files/styles/934x525/public/2020/05/02/mirtha.jpg",
+        "nombre": "Mirtha Legrand",
+        "ciudad": "Buenos Aires"        
+     },
+     {
+        "id": 6,
+        "avatar": "https://estaticos.elperiodico.com/resources/jpg/0/5/pep-guardiola-tecnico-del-city-una-imagen-reciente-1574464411750.jpg",
+        "nombre": "Pep Guardiola",
+        "ciudad": "Barcelona"        
+     },
+   }
