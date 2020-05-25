@@ -1,63 +1,63 @@
 {
     "products":[
         {
-        "sku": 88957,
+        "id": 88957,
         "imgUrl": "https://image.shutterstock.com/z/stock-photo-pair-of-white-sneakers-isolated-on-white-background-sport-shoes-712448377.jpg",
         "name": "Sport Shoes",
         "price": 110,
         "descripcion": "White and red tenis for walking"      
       },
       {
-        "sku": 88958,
+        "id": 88958,
         "imgUrl": "https://image.shutterstock.com/z/stock-photo-vintage-red-shoes-on-white-background-92008067.jpg",
         "name": "Red SNEAKER",
         "price": 91,
         "descripcion": "Red Converse unisex"       
       },
       {
-        "sku": 88959,
+        "id": 88959,
         "imgUrl": "https://image.shutterstock.com/z/stock-photo-pink-and-black-sport-woman-shoes-isolated-on-white-background-709418083.jpg",
         "name": "Sport Shoes Women",
         "price": 94,
         "descripcion": "Purple tenis, perfect for the gim or run"        
       },
       {
-        "sku": 88960,
+        "id": 88960,
         "imgUrl": "https://image.shutterstock.com/z/stock-photo-children-s-autumn-or-winter-fashion-boots-isolated-on-white-background-708900334.jpg",
         "name": "Winter boots children",
         "price": 143,
         "descripcion": "Special boots made of leather for winter season"        
       },
       {
-        "sku": 88961,
+        "id": 88961,
         "imgUrl": "https://image.shutterstock.com/z/stock-photo-bangkok-thailand-january-onitsuka-tiger-asics-gel-lyte-iii-on-january-in-bangkok-292088969.jpg",
         "name": "Sports shoes Red-White",
         "price": 150,
         "descripcion": "Gray and red tenis for walking"        
       },
       {
-        "sku": 88962,
+        "id": 88962,
         "imgUrl": "https://image.shutterstock.com/z/stock-photo-leather-shoes-isolated-on-white-background-including-clipping-path-216565609.jpg",
         "name": "Black leather shoes",
         "price": 250,
         "descripcion": "Leather shoes for formal situations, made of non-animal leather"        
       },
       {
-        "sku": 88963,
+        "id": 88963,
         "imgUrl": "https://image.shutterstock.com/z/stock-photo-casual-shoes-on-white-background-included-clipping-path-667459072.jpg",
         "name": "Shoes Canvas",
         "price": 50,
         "descripcion": "Skate tenis for causal meetings"        
       },
       {
-        "sku": 88964,
+        "id": 88964,
         "imgUrl": "https://image.shutterstock.com/z/stock-photo-white-sneakers-on-white-background-including-clipping-path-1100736923.jpg",
         "name": "Shoes White",
         "price": 85,
         "descripcion": "White tenis for walking"        
       },
       {
-        "sku": 88965,
+        "id": 88965,
         "imgUrl": "https://image.shutterstock.com/z/stock-photo-yellow-sneakers-15066415.jpg",
         "name": "Sneakers Yellow",
         "price": 125,
