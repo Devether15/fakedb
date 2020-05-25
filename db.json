@@ -1,40 +1,65 @@
-{
-    "contacts":[
-     {
-        "id": 1,
-        "avatar": "https://estaticos.sport.es/resources/jpg/7/7/1568401372277.jpg",
-        "nombre": "Lionel Messi",
-        "ciudad": "Barcelona"        
-     },
-     {
-        "id": 2,
-        "avatar": "https://los40es00.epimg.net/los40/imagenes/2019/10/07/musica/1570439368_429644_1570439881_noticia_normal.jpg",
-        "nombre": "Shakira",
-        "ciudad": "Barcelona"        
-     },
-     {
-        "id": 3,
-        "avatar": "https://bolavip.com/__export/1574357799669/sites/bolavip/img/2019/11/21/gerard_pique_barcelona_retiro_crop1574357799063.jpg_423682103.jpg",
-        "nombre": "Gerard Piqué",
-        "ciudad": "Barcelona"        
-     },
-        {
-        "id": 4,
-        "avatar": "https://www.mundodeportivo.com/r/GODO/MD/p7/Futbol/Imagenes/2020/04/06/Recortada/img_agomezo_20200326-110529_imagenes_md_otras_fuentes_gettyimages-1205035438-kT0F-U48336284567QyD-980x554@MundoDeportivo-Web.jpg",
-        "nombre": "Cristiano Ronaldo",
-        "ciudad": "Turin"        
-     },
-     {
-        "id": 5,
-        "avatar": "https://cdn.eltrecetv.com.ar/sites/default/files/styles/934x525/public/2020/05/02/mirtha.jpg",
-        "nombre": "Mirtha Legrand",
-        "ciudad": "Buenos Aires"        
-     },
-     {
-        "id": 6,
-        "avatar": "https://estaticos.elperiodico.com/resources/jpg/0/5/pep-guardiola-tecnico-del-city-una-imagen-reciente-1574464411750.jpg",
-        "nombre": "Pep Guardiola",
-        "ciudad": "Barcelona"        
-     }
-   ]
-}
+
+[
+  {
+    "imgUrl": "https://image.shutterstock.com/z/stock-photo-pair-of-white-sneakers-isolated-on-white-background-sport-shoes-712448377.jpg",
+    "name": "Sport Shoes",
+    "price": 110,
+    "descripcion": "blah",
+    "sku": 88957
+  },
+  {
+    "imgUrl": "https://image.shutterstock.com/z/stock-photo-vintage-red-shoes-on-white-background-92008067.jpg",
+    "name": "Red SNEAKER",
+    "price": 91,
+    "descripcion": "blah",
+    "sku": 88958
+  },
+  {
+    "imgUrl": "https://image.shutterstock.com/z/stock-photo-pink-and-black-sport-woman-shoes-isolated-on-white-background-709418083.jpg",
+    "name": "Sport Shoes Women",
+    "price": 94,
+    "descripcion": "blah",
+    "sku": 88959
+  },
+  {
+    "imgUrl": "https://image.shutterstock.com/z/stock-photo-children-s-autumn-or-winter-fashion-boots-isolated-on-white-background-708900334.jpg",
+    "name": "Winter boots children",
+    "price": 143,
+    "descripcion": "blah",
+    "sku": 88960
+  },
+  {
+    "imgUrl": "https://image.shutterstock.com/z/stock-photo-bangkok-thailand-january-onitsuka-tiger-asics-gel-lyte-iii-on-january-in-bangkok-292088969.jpg",
+    "name": "Sports shoes Red-White",
+    "price": 150,
+    "descripcion": "blah",
+    "sku": 88961
+  },
+  {
+    "imgUrl": "https://image.shutterstock.com/z/stock-photo-leather-shoes-isolated-on-white-background-including-clipping-path-216565609.jpg",
+    "name": "Black leather shoes",
+    "price": 250,
+    "descripcion": "blah",
+    "sku": 88962
+  },
+  {
+    "imgUrl": "https://image.shutterstock.com/z/stock-photo-casual-shoes-on-white-background-included-clipping-path-667459072.jpg",
+    "name": "Shoes Canvas",
+    "price": 50,
+    "descripcion": "blah",
+    "sku": 88963
+  },
+  {
+    "imgUrl": "https://image.shutterstock.com/z/stock-photo-white-sneakers-on-white-background-including-clipping-path-1100736923.jpg",
+    "name": "Shoes White",
+    "price": 85,
+    "descripcion": "blah",
+    "sku": 88964
+  },
+  {
+    "imgUrl": "https://image.shutterstock.com/z/stock-photo-yellow-sneakers-15066415.jpg",
+    "name": "Sneakers Yellow",
+    "price": 125,
+    "descripcion": "blah",
+    "sku": 88965
+  }
